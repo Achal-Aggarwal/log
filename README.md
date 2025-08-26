@@ -1,3 +1,7 @@
+# EOL
+
+This packages is no longer maintained and archived. No replacement by the Joomla Project is planned. Alternatives can be found at the [psr log package](https://packagist.org/packages/psr/log).
+
 ## The Log Package [![Build Status](https://ci.joomla.org/api/badges/joomla-framework/log/status.svg)](https://ci.joomla.org/joomla-framework/log)
 
 [![Latest Stable Version](https://poser.pugx.org/joomla/log/v/stable)](https://packagist.org/packages/joomla/log) [![Total Downloads](https://poser.pugx.org/joomla/log/downloads)](https://packagist.org/packages/joomla/log) [![Latest Unstable Version](https://poser.pugx.org/joomla/log/v/unstable)](https://packagist.org/packages/joomla/log) [![License](https://poser.pugx.org/joomla/log/license)](https://packagist.org/packages/joomla/log)
